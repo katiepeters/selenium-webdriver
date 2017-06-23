@@ -6,9 +6,9 @@ interaction with the browser.
 
 ## Installation
 
-Selenium may be installed via npm with
+Selenium may be installed via yarn with
 
-    npm install selenium-webdriver
+    yarn add https://github.com/katiepeters/selenium-webdriver.git
 
 You will need to download additional components to work with each of the major
 browsers. The drivers for Chrome, Firefox, PhantomJS, Opera, and
